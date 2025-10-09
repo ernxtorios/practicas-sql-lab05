@@ -48,4 +48,4 @@ Desktop.ini
 appsettings.Development.json
 connectionstrings.config
 
-lab05/*.ssmssqlproj
+sql-challenge-04/*.ssmssqlproj

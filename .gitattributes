@@ -1,4 +1,4 @@
 *.sql linguist-language=SQL
 *.sql linguist-detectable=true
-lab05/*.sql linguist-language=SQL
-lab05/*.sql linguist-detectable=true
+sql-challenge-04/*.sql linguist-language=SQL
+sql-challenge-04/*.sql linguist-detectable=true
